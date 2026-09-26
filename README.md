@@ -71,7 +71,7 @@ This project analyzes employee data to uncover workforce trends and support **da
 
 <div align="center">
 
-<img src="dashboard/hr_dashboard.png" width="800"/>
+<img src="dashboardhr_dashboard.png" width="800"/>
 
 </div>
 
