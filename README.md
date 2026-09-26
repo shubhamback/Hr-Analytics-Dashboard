@@ -1,56 +1,107 @@
-HR Analytics Dashboard
+<div align="center">
 
-Project Overview
+# 👥 HR Analytics Dashboard
+### Excel Portfolio Project
 
-This project is an HR Analytics Dashboard created in Microsoft Excel to analyze employee data and provide insights into workforce trends, employee demographics, and key HR metrics.
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-blue?style=for-the-badge)
+![HR Analytics](https://img.shields.io/badge/HR%20Analytics-orange?style=for-the-badge)
 
-Objectives
+*An interactive HR Analytics Dashboard built in Microsoft Excel to analyze workforce trends, employee demographics, and key HR metrics.*
 
-* Monitor employee count and workforce distribution
-* Analyze employee attrition trends
-* Track department-wise performance
-* Visualize key HR KPIs
-* Support data-driven HR decision making
+</div>
 
-KPIs
+---
 
-* Total Employees
-* Attrition Count
-* Attrition Rate
-* Average Age
-* Average Salary
-* Average Years at Company
+## 📌 Project Overview
 
-Dashboard Features
+This project analyzes employee data to uncover workforce trends and support **data-driven HR decision making**. Built entirely in Excel using Pivot Tables, Pivot Charts, and dynamic KPI cards, it turns raw HR data into a clean, interactive dashboard.
 
-* Interactive slicers and filters
-* Department-wise analysis
-* Gender distribution analysis
-* Education field analysis
-* Attrition analysis
-* Dynamic KPI cards
-* User-friendly dashboard design
+---
 
-Tools Used
+## 🎯 Objectives
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Conditional Formatting
-* KPI Cards
+- 📊 Monitor employee count and workforce distribution
+- 📉 Analyze employee attrition trends
+- 🏢 Track department-wise performance
+- 📈 Visualize key HR KPIs
+- 🧭 Support data-driven HR decision making
 
-Dashboard Preview
+---
 
-(Add your dashboard screenshot here)
+## 📌 KPIs Tracked
 
-Key Insights
+| KPI | Description |
+|---|---|
+| 👥 **Total Employees** | Overall headcount |
+| 🚪 **Attrition Count** | Number of employees who left |
+| 📉 **Attrition Rate** | % of workforce turnover |
+| 🎂 **Average Age** | Workforce age profile |
+| 💰 **Average Salary** | Compensation benchmark |
+| 📅 **Average Years at Company** | Employee tenure |
 
-* Identified departments with higher attrition.
-* Analyzed workforce distribution across departments.
-* Compared employee demographics and retention trends.
+---
 
-Author
+## ✨ Dashboard Features
 
-Shubham Dekate
-Aspiring Data Analyst
+- 🎛️ Interactive slicers and filters
+- 🏢 Department-wise analysis
+- ⚧ Gender distribution analysis
+- 🎓 Education field analysis
+- 📉 Attrition analysis
+- 📌 Dynamic KPI cards
+- 🎨 User-friendly dashboard design
+
+---
+
+## 🛠️ Tools Used
+
+| Tool / Technique | Purpose |
+|---|---|
+| **Microsoft Excel** | Core platform |
+| **Pivot Tables** | Data summarization |
+| **Pivot Charts** | Visual trends |
+| **Slicers** | Interactive filtering |
+| **Conditional Formatting** | Visual highlighting |
+| **KPI Cards** | At-a-glance metrics |
+
+---
+
+## 🖼️ Dashboard Preview
+
+<div align="center">
+
+<img src="dashboard/hr_dashboard.png" width="800"/>
+
+</div>
+
+---
+
+## 🔍 Key Insights
+
+- 🔎 Identified departments with **higher attrition**
+- 🏢 Analyzed workforce distribution across departments
+- 📊 Compared employee demographics and retention trends
+
+---
+
+## 📁 Repo Structure
+
+```
+├── hr_analytics_dashboard.xlsx   # Excel dashboard file
+├── dashboard/                    # Dashboard screenshot(s)
+└── README.md                     # This file
+```
+
+---
+
+## 👤 Author
+
+**Shubham Dekate**
+*Aspiring Data Analyst*
+
+<div align="center">
+
+⭐ *If you found this project useful, consider giving it a star!*
+
+</div>
